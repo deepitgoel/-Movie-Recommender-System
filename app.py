@@ -46,22 +46,6 @@ if st.button("Recommend"):
             st.write(name[i])
             st.image(poster[i])
 
-    # with col2:
-    #     st.header(name[1])
-    #     st.image("https://static.streamlit.io/examples/dog.jpg")
-
-    # with col3:
-    #     st.header(name[1])
-    #     st.image("https://static.streamlit.io/examples/owl.jpg")
-    
-    # with col4:
-    #     st.header(name[1])
-    #     st.image("https://static.streamlit.io/examples/owl.jpg")
-    
-    # with col5:
-    #     st.header(name[1])
-    #     st.image("https://static.streamlit.io/examples/owl.jpg")
-    
     
     
     
